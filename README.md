@@ -1,5 +1,5 @@
 # Entity-Framework-test-with-React
-Project shocasing my use of Entity Framework while using React
+Project showcasing my use of Entity Framework while using React
 
 Using React.JS for Front-End to gather Star Wars characters data from [StarWarsAPI](https://swapi.dev/).
 
